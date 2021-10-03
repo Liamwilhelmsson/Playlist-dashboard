@@ -3,6 +3,8 @@
 This application uses Spotify Web API to display information of your playlists from Spotify.
 The application uses React.js as frontend and Django with Django REST framework as well as PostgreSQL on the backend.
 
+![Playlist_dashboard](https://user-images.githubusercontent.com/21284111/135754688-d7103601-61f5-434a-ae13-1e380f26175f.PNG)
+
 ## Spotify API
 
 Application uses the following endpoints:
